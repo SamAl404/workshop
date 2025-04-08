@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\vehiclesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\vehiclesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\servicesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\servicesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\servicesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\servicesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\salesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\salesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\productsprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\productsprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\paymentmethodsprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\paymentmethodsprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\ordersprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\ordersprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\orderservicesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\orderservicesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\employeesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\employeesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\customersprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\customersprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\categoriesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\categoriesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\repositorios\\brandsprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\brandsprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644C99B-69E4-4E6C-883D-BC3C07EF940E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\secretos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:secretos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\lib_repositorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\servicesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\servicesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Products.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Products.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Products.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Products.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:18:13.667Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntidadesNucleo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:18:27.145Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\ProductsPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\ProductsPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\ProductsPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\ProductsPrueba.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:01:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\SalesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\SalesPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\SalesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\SalesPrueba.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T23:20:47.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesProducts.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\ServicesProducts.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\ServicesProducts.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\ServicesProducts.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\ServicesProducts.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:12:34.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\ServicesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\ServicesPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\ServicesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\ServicesPrueba.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T23:37:05.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiclesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\VehiclesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\VehiclesPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\VehiclesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\VehiclesPrueba.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:39:45.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.sql ",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\script.sql",
+              "RelativeDocumentMoniker": "lib_repositorio\\script.sql",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\script.sql",
+              "RelativeToolTip": "lib_repositorio\\script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-03T00:56:59.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentMethodsPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\PaymentMethodsPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\PaymentMethodsPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\PaymentMethodsPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\PaymentMethodsPrueba.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:40:39.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\OrdersPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\OrdersPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\OrdersPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\OrdersPrueba.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:56:43.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderServicesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\OrderServicesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\OrderServicesPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\OrderServicesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\OrderServicesPrueba.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:31:06.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\EmployeesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\EmployeesPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\EmployeesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\EmployeesPrueba.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:53:27.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\CustomersPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\CustomersPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\CustomersPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\CustomersPrueba.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:30:50.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\CategoriesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\CategoriesPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\CategoriesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\CategoriesPrueba.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T23:46:24.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrandsPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\BrandsPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\BrandsPrueba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Repositorios\\BrandsPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\BrandsPrueba.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:06:41.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\Configuracion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:57:46.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorio\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "lib_repositorio\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T23:21:58.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorio\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorio\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:31:18.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "secretos.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\secretos.json",
+              "RelativeDocumentMoniker": "secretos.json",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\secretos.json",
+              "RelativeToolTip": "secretos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T01:39:18.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Vehicles.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Vehicles.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Vehicles.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:05:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Services.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Services.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Services.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Services.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:14:55.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Sales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Sales.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Sales.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Sales.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:09:10.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:34:55.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Orders.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Orders.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Orders.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Orders.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:35:54.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "lib_repositorio.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\lib_repositorio.csproj",
+              "RelativeDocumentMoniker": "lib_repositorio\\lib_repositorio.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\lib_repositorio.csproj",
+              "RelativeToolTip": "lib_repositorio\\lib_repositorio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T20:32:00.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Customers.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Customers.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Customers.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:06:50.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Brands.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Brands.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Brands.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Brands.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Brands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:03:57.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Categories.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Categories.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Categories.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:20:48.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServicesProducts.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\ServicesProducts.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\ServicesProducts.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\ServicesProducts.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\ServicesProducts.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:17:34.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentMethods.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\PaymentMethods.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\PaymentMethods.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\PaymentMethods.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\PaymentMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:22:39.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\OrderServices.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\OrderServices.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\OrderServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:11:54.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Employees.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Employees.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\Entidades\\Employees.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:12:54.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
