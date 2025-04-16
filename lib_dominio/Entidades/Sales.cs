@@ -11,6 +11,7 @@ namespace lib_dominio.Entidades
         public int PaymentMethodId { get; set; }
         public decimal Total { get; set; }
         public int OrderId { get; set; }
+        public List<Orders>? OrdersList { get; set; } 
         [ForeignKey("PaymentMethodId")] public PaymentMethods? _PaymentMethod { get; set; }
         [ForeignKey("OrderId")] public Orders? _Order { get; set; }
     }
