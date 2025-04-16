@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lib_dominio",
+    "\\lib_dominio\\Entidades"
   ],
   "SelectedNode": "\\WorkShop.sln",
   "PreviewInSolutionExplorer": false
