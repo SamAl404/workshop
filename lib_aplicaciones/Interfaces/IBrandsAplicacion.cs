@@ -1,6 +1,4 @@
-﻿
-
-using lib_dominio.Entidades;
+﻿using lib_dominio.Entidades;
 
 namespace lib_aplicaciones.Interfaces
 {
@@ -8,9 +6,9 @@ namespace lib_aplicaciones.Interfaces
     {
         List<Brands> PorPais(Brands? entidad);
         List<Brands> Listar();
-        Brands? Guardar(Notas? entidad);
-        Brands? Modificar(Notas? entidad);
-        Brands? Borrar(Notas? entidad);
+        Brands? Guardar(Brands? entidad);
+        Brands? Modificar(Brands? entidad);
+        Brands? Borrar(Brands? entidad);
 
 
     }
