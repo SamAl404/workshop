@@ -225,3 +225,4 @@ C:\Users\ASUS\Documents\software-development\WorkShop\ut_presentacion\obj\Debug\
 C:\Users\ASUS\Documents\software-development\WorkShop\ut_presentacion\obj\Debug\net8.0\ut_presentacion.pdb
 C:\Users\ASUS\Documents\software-development\WorkShop\ut_presentacion\obj\Debug\net8.0\ut_presentacion.genruntimeconfig.cache
 C:\Users\ASUS\Documents\software-development\WorkShop\ut_presentacion\obj\Debug\net8.0\ref\ut_presentacion.dll
+C:\Users\ASUS\Documents\software-development\WorkShop\ut_presentacion\obj\Debug\net8.0\ut_presentacion.sourcelink.json
