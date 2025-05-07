@@ -28,3 +28,4 @@ C:\Users\ASUS\Documents\software-development\WorkShop\lib_repositorio\obj\Debug\
 C:\Users\ASUS\Documents\software-development\WorkShop\lib_repositorio\obj\Debug\net8.0\refint\lib_repositorio.dll
 C:\Users\ASUS\Documents\software-development\WorkShop\lib_repositorio\obj\Debug\net8.0\lib_repositorio.pdb
 C:\Users\ASUS\Documents\software-development\WorkShop\lib_repositorio\obj\Debug\net8.0\ref\lib_repositorio.dll
+C:\Users\ASUS\Documents\software-development\WorkShop\lib_repositorio\obj\Debug\net8.0\lib_repositorio.sourcelink.json

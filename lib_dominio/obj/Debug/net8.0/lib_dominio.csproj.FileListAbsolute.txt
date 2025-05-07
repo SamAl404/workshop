@@ -22,3 +22,4 @@ C:\Users\ASUS\Documents\software-development\WorkShop\lib_dominio\obj\Debug\net8
 C:\Users\ASUS\Documents\software-development\WorkShop\lib_dominio\obj\Debug\net8.0\refint\lib_dominio.dll
 C:\Users\ASUS\Documents\software-development\WorkShop\lib_dominio\obj\Debug\net8.0\lib_dominio.pdb
 C:\Users\ASUS\Documents\software-development\WorkShop\lib_dominio\obj\Debug\net8.0\ref\lib_dominio.dll
+C:\Users\ASUS\Documents\software-development\WorkShop\lib_dominio\obj\Debug\net8.0\lib_dominio.sourcelink.json

@@ -4,6 +4,7 @@ namespace lib_aplicaciones.Interfaces
 {
     public interface IBrandsAplicacion
     {
+        void Configurar(string StringConexion);
         List<Brands> PorPais(Brands? entidad);
         List<Brands> Listar();
         Brands? Guardar(Brands? entidad);
