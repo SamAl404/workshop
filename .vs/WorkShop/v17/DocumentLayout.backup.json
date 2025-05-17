@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_aplicaciones\\implementaciones\\ordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\ordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_servicios\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_aplicaciones\\interfaces\\iordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_aplicaciones\\implementaciones\\categoriesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\categoriesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_servicios\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,27 +62,106 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Sales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Sales.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Sales.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:08:23.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrdersAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:46:01.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Orders.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Orders.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Orders.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Orders.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:44:40.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "script.sql ",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\script.sql",
-              "RelativeDocumentMoniker": "lib_repositorio\\script.sql",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\script.sql",
-              "RelativeToolTip": "lib_repositorio\\script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-15T13:27:54.79Z",
+              "Title": "OrdersAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\OrdersAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\OrdersAplicacion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\OrdersAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\OrdersAplicacion.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:44:11.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\secrets.json",
-              "RelativeToolTip": "secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-15T13:26:39.49Z",
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:37:33.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Startup.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Startup.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Startup.cs",
+              "RelativeToolTip": "asp_servicios\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:30:11.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\CategoriesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\CategoriesAplicacion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\CategoriesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\CategoriesAplicacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:26:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:24:55.809Z",
               "EditorCaption": ""
             }
           ]

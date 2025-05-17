@@ -8,7 +8,7 @@ namespace asp_servicios.Controllers
 {
     [ApiController]
     [Route("[controller]/[action]")]
-    public class BrandsController : ControllerBase
+    public class BrandsController : ControllerBase 
     {
         private IBrandsAplicacion? iAplicacion = null;
         private TokenController? tokenController = null;

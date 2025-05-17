@@ -28,6 +28,16 @@ namespace asp_servicios
             // Aplicaciones
             services.AddScoped<IBrandsAplicacion, BrandsAplicacion>();
             services.AddScoped<ICustomersAplicacion, CustomersAplicacion>();
+            services.AddScoped<ICategoriesAplicacion, CategoriesAplicacion>();
+            services.AddScoped<IEmployeesAplicacion, EmployeesAplicacion>();
+            services.AddScoped<IOrdersAplicacion, OrdersAplicacion>();
+            services.AddScoped<IOrderServicesAplicacion, OrderServicesAplicacion>();
+            services.AddScoped<IPaymentMethodsAplicacion, PaymentMethodsAplicacion>();
+            services.AddScoped<IProductsAplicacion, ProductsAplicacion>();
+            services.AddScoped<ISalesAplicacion, SalesAplicacion>();
+            services.AddScoped<IServicesAplicacion, ServicesAplicacion>();
+            services.AddScoped<IServicesProductsAplicacion, ServicesProductsAplicacion>();
+            services.AddScoped<IVehiclesAplicacion, VehiclesAplicacion>();
             // Controladores
             services.AddScoped<TokenController, TokenController>();
 
