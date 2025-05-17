@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\",
   "Documents": [
     {
@@ -197,6 +198,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+>>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
     }
   ],
   "DocumentGroupContainers": [
@@ -206,6 +222,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -235,6 +252,11 @@
               "IsPinned": true
             },
             {
+=======
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+>>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
               "$type": "Bookmark",
               "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
@@ -253,6 +275,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "secretos.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secretos.json",
               "RelativeDocumentMoniker": "secretos.json",
@@ -310,10 +333,21 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T16:00:29.338Z"
+=======
+              "Title": "script.sql ",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\script.sql",
+              "RelativeDocumentMoniker": "lib_repositorio\\script.sql",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\script.sql",
+              "RelativeToolTip": "lib_repositorio\\script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-15T13:27:54.79Z",
+              "EditorCaption": ""
+>>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "Configuracion.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Nucleo\\Configuracion.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Configuracion.cs",
@@ -825,6 +859,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T20:12:54.176Z"
+=======
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\secrets.json",
+              "RelativeDocumentMoniker": "secrets.json",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\secrets.json",
+              "RelativeToolTip": "secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T13:26:39.49Z",
+              "EditorCaption": ""
+>>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
             }
           ]
         }
