@@ -4455,9 +4455,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\ut_presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj",
       "projectName": "ut_presentacion",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\ut_presentacion.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\obj\\",
       "projectStyle": "PackageReference",
@@ -4481,11 +4481,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\lib_dominio.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_dominio\\lib_dominio.csproj"
+            "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj"
             },
-            "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\lib_repositorio.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\lib_repositorio.csproj"
+            "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj"
             }
           }
         }
