@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\asp_servicios",
+    "\\lib_aplicaciones",
+    "\\lib_dominio",
+    "\\lib_repositorio",
+    "\\ut_presentacion"
   ],
   "SelectedNode": "\\WorkShop.sln",
   "PreviewInSolutionExplorer": false
