@@ -2880,7 +2880,7 @@
       "projectName": "lib_repositorio",
       "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\lib_repositorio.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\lib_repositorio\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

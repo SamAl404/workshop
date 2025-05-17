@@ -4459,7 +4459,7 @@
       "projectName": "ut_presentacion",
       "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\ut_presentacion.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\WorkShop\\ut_presentacion\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
