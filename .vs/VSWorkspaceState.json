@@ -6,6 +6,7 @@
     "\\asp_servicios\\Controllers"
 =======
     "\\lib_aplicaciones",
+    "\\lib_aplicaciones\\Implementaciones",
     "\\lib_dominio",
     "\\lib_repositorio",
     "\\ut_presentacion"

@@ -4449,12 +4449,13 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\santi\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj",
       "projectName": "ut_presentacion",
@@ -4468,12 +4469,19 @@
       "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\ut_presentacion\\obj\\",
 >>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
+=======
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj",
+      "projectName": "ut_presentacion",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\obj\\",
+>>>>>>> controllerBranch
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4490,6 +4498,7 @@
           "targetAlias": "net8.0",
           "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj": {
               "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj"
             },
@@ -4502,6 +4511,13 @@
             "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\lib_repositorio.csproj": {
               "projectPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\lib_repositorio.csproj"
 >>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
+=======
+            "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj"
+            },
+            "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj"
+>>>>>>> controllerBranch
             }
           }
         }

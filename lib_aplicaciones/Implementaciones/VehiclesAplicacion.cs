@@ -61,7 +61,7 @@ namespace lib_aplicaciones.Implementaciones
 
         }
 
-        public List<Vehicles> PorPlate(Vehicles? entidad)
+        public List<Vehicles> PorPlaca(Vehicles? entidad)
         {
             return this.IConexion!.Vehicles!
                 .Where(x => x.Plate!.Contains(entidad!.Plate!))

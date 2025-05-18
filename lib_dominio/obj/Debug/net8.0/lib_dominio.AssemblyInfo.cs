@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lib_dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1741d9ada900a7384248d1a0932d91fb58a9a734")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbaa7c4bffd2971764245eaabee182005dbfbeb7")]
->>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f966757e57ac30559a5139f5837397ed5411cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("lib_dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lib_dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

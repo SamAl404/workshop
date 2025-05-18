@@ -1,6 +1,7 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\",
   "Documents": [
     {
@@ -200,19 +201,144 @@
       "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
   "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\",
+=======
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\",
+>>>>>>> controllerBranch
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+<<<<<<< Updated upstream
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_servicios\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\servicesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\servicesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_aplicaciones\\implementaciones\\ordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\ordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_aplicaciones\\interfaces\\iordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\asp_servicios\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_aplicaciones\\implementaciones\\salesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\salesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_aplicaciones\\implementaciones\\ordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\ordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_aplicaciones\\interfaces\\iordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iordersaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\asp_servicios\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\servicesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\servicesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\asp_servicios\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
 >>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
+=======
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_aplicaciones\\implementaciones\\categoriesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\categoriesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\asp_servicios\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> controllerBranch
     }
   ],
   "DocumentGroupContainers": [
@@ -222,6 +348,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "SelectedChildIndex": 6,
           "Children": [
@@ -254,6 +381,9 @@
             {
 =======
           "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 10,
+>>>>>>> controllerBranch
           "Children": [
             {
 >>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
@@ -274,6 +404,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
 <<<<<<< HEAD
               "Title": "secretos.json",
@@ -341,11 +472,35 @@
               "RelativeToolTip": "lib_repositorio\\script.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-05-15T13:27:54.79Z",
+=======
+<<<<<<< Updated upstream
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Products.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Products.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Products.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:18:33.591Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "SalesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_aplicaciones\\Implementaciones\\SalesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\SalesAplicacion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_aplicaciones\\Implementaciones\\SalesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\SalesAplicacion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:05:10.738Z",
+>>>>>>> Stashed changes
+>>>>>>> controllerBranch
               "EditorCaption": ""
 >>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
 <<<<<<< HEAD
               "Title": "Configuracion.cs",
@@ -839,11 +994,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 47,
+=======
+<<<<<<< Updated upstream
+              "DocumentIndex": 9,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Customers.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Customers.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Customers.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:18:12.495Z"
+=======
+              "DocumentIndex": 6,
+>>>>>>> controllerBranch
               "Title": "OrderServices.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\OrderServices.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\OrderServices.cs",
               "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\OrderServices.cs",
               "RelativeToolTip": "lib_dominio\\Entidades\\OrderServices.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T20:11:54.89Z"
@@ -870,6 +1040,359 @@
               "WhenOpened": "2025-05-15T13:26:39.49Z",
               "EditorCaption": ""
 >>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
+=======
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:49:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServicesProducts.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\ServicesProducts.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\ServicesProducts.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\ServicesProducts.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\ServicesProducts.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:49:10.679Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+<<<<<<< Updated upstream
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Categories.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Categories.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Categories.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:18:08.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Brands.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Brands.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Brands.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Brands.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Brands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:18:05.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Services.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Services.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Services.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:14:50.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicesProducts.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\ServicesProducts.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\ServicesProducts.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\ServicesProducts.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\ServicesProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:14:46.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Sales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Sales.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Sales.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+=======
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:47:11.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:39:08.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json",
+              "RelativeDocumentMoniker": "secrets.json",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json",
+              "RelativeToolTip": "secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T23:36:34.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Sales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Sales.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Sales.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Sales.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:08:23.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDIAAAAMAAAAAAAAAA==",
+=======
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwAwAAAAhAAAAAAAAAA==",
+>>>>>>> Stashed changes
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:37:33.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
+              "DocumentIndex": 1,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Orders.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Orders.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Orders.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Orders.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:44:40.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Employees.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Employees.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Employees.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:18:15.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentMethods.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\PaymentMethods.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\PaymentMethods.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\PaymentMethods.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\PaymentMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:18:26.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\OrderServices.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\OrderServices.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\OrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:14:36.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrdersAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:46:01.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+=======
+              "DocumentIndex": 9,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Vehicles.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Vehicles.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Vehicles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:50:26.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrdersAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IOrdersAplicacion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:46:01.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
+              "Title": "OrdersAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_aplicaciones\\Implementaciones\\OrdersAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\OrdersAplicacion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_aplicaciones\\Implementaciones\\OrdersAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\OrdersAplicacion.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:44:11.637Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
+=======
+              "DocumentIndex": 5,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:56:08.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Services.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Services.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Services.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:50:50.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:37:05.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Orders.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Orders.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Orders.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Orders.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:44:40.106Z"
+            },
+            {
+              "$type": "Document",
+>>>>>>> Stashed changes
+              "DocumentIndex": 14,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Startup.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Startup.cs",
+              "RelativeToolTip": "asp_servicios\\Startup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:30:11.276Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
+              "DocumentIndex": 15,
+=======
+              "DocumentIndex": 16,
+>>>>>>> Stashed changes
+              "Title": "CategoriesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_aplicaciones\\Implementaciones\\CategoriesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\CategoriesAplicacion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_aplicaciones\\Implementaciones\\CategoriesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\CategoriesAplicacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:26:46.623Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
+              "DocumentIndex": 16,
+=======
+              "DocumentIndex": 17,
+>>>>>>> Stashed changes
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\asp_servicios\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:24:55.809Z"
+>>>>>>> controllerBranch
             }
           ]
         }
