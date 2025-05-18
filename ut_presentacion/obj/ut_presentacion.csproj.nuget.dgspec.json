@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\ut_presentacion\\ut_presentacion.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\lib_dominio.csproj": {
+    "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\lib_dominio.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj",
         "projectName": "lib_dominio",
-        "projectPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\lib_dominio.csproj",
-        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -76,20 +76,20 @@
         }
       }
     },
-    "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\lib_repositorio.csproj": {
+    "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\lib_repositorio.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj",
         "projectName": "lib_repositorio",
-        "projectPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\lib_repositorio.csproj",
-        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\lib_dominio.csproj": {
-                "projectPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\lib_dominio.csproj"
+              "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj"
               }
             }
           }
@@ -152,20 +152,20 @@
         }
       }
     },
-    "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\ut_presentacion\\ut_presentacion.csproj": {
+    "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\ut_presentacion\\ut_presentacion.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj",
         "projectName": "ut_presentacion",
-        "projectPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\ut_presentacion\\ut_presentacion.csproj",
-        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\ut_presentacion\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\ut_presentacion.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\ut_presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -181,11 +181,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\lib_dominio.csproj": {
-                "projectPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\lib_dominio.csproj"
+              "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj"
               },
-              "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\lib_repositorio.csproj": {
-                "projectPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\lib_repositorio.csproj"
+              "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj"
               }
             }
           }
