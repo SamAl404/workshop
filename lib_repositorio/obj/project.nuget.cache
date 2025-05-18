@@ -1,20 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
   "dgSpecHash": "AqSMGATXlj0=",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj",
-=======
-  "dgSpecHash": "T+oZjxtnMIo=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_repositorio\\lib_repositorio.csproj",
->>>>>>> 7871546fc35bb80fc3305afcd1c2f16e7dc16a3d
-=======
-  "dgSpecHash": "AqSMGATXlj0=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\lib_repositorio.csproj",
->>>>>>> controllerBranch
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -74,5 +62,12 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
