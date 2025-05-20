@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secretos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:secretos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,11 +51,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "secretos.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secretos.json",
+              "RelativeDocumentMoniker": "secretos.json",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secretos.json",
+              "RelativeToolTip": "secretos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T13:51:27.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DatosGenerales.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Nucleo\\DatosGenerales.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Nucleo\\DatosGenerales.cs*",
-              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs*",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T00:36:04.156Z",
@@ -71,8 +84,7 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Sales.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T00:20:42.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T00:20:42.049Z"
             },
             {
               "$type": "Document",
@@ -84,8 +96,7 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Orders.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T00:20:39.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T00:20:39.379Z"
             },
             {
               "$type": "Document",
@@ -97,19 +108,6 @@
               "RelativeToolTip": "lib_repositorio\\script.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-05-18T00:20:01.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json*",
-              "RelativeToolTip": "secrets.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T00:20:01.212Z",
-              "EditorCaption": ""
             }
           ]
         }

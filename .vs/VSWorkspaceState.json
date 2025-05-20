@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lib_dominio",
+    "\\lib_dominio\\Nucleo"
   ],
-  "SelectedNode": "\\WorkShop.sln",
+  "SelectedNode": "\\lib_dominio\\Nucleo\\DatosGenerales.cs",
   "PreviewInSolutionExplorer": false
 }
