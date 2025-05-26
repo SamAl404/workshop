@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\",
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_presentaciones\\implementaciones\\brandspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\brandspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_presentacion\\pages\\ventanas\\brands.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\brands.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_servicios\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_aplicaciones\\implementaciones\\brandsaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\brandsaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\asus\\documents\\software-development\\workshop\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{0ED34637-3C7C-4955-B5E5-3B4D2A9FB805}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_presentacion\\pages\\ventanas\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,65 +54,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatosGenerales.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T00:36:04.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Sales.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Sales.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Sales.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Sales.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Sales.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T00:20:42.049Z",
+              "WhenOpened": "2025-05-26T22:45:14.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Orders.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Orders.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\Entidades\\Orders.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Orders.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BrandsAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\BrandsAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\BrandsAplicacion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\BrandsAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\BrandsAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T00:20:39.379Z",
+              "WhenOpened": "2025-05-26T22:44:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Brandspresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Implementaciones\\Brandspresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\Brandspresentacion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Implementaciones\\Brandspresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\Brandspresentacion.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:24:20.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "script.sql",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\script.sql",
-              "RelativeDocumentMoniker": "lib_repositorio\\script.sql",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_repositorio\\script.sql",
-              "RelativeToolTip": "lib_repositorio\\script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-18T00:20:01.194Z"
+              "Title": "Comunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Comunicaciones.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Comunicaciones.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Comunicaciones.cs",
+              "RelativeToolTip": "lib_presentaciones\\Comunicaciones.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:24:08.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\secrets.json",
-              "RelativeToolTip": "secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T00:20:01.212Z",
+              "Title": "Brands.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Brands.cshtml.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Brands.cshtml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Brands.cshtml.cs",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Brands.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA/wCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:20:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Brands.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Brands.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Brands.cshtml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Brands.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Brands.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T22:09:16.23Z",
               "EditorCaption": ""
             }
           ]

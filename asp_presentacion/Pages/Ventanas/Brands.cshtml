@@ -137,25 +137,22 @@
             {
                 <input id="flCodigo"
                        class="cts_forms form-control"
-                       asp-for="@Model.Filtro!.Id"
-                       placeholder="Codigo" />
+                       asp-for="@Model.Filtro!.OriginCountry"
+                       placeholder="Pais" />
                 <br />
 
                 <div class="containers_vn panel panel-default">
                     <table class="tb_data table table-striped table-bordered table-hover">
                         <tr>
                             <th>
-                                Codigo
+                                Id
                             </th>
                             <th>
                                 Nombre
                             </th>
                             <th class="cl_hidden">
-                                Telefono
-                            </th>
-                            <th class="cl_actions">
-                                Dirreccion
-                            </th>
+                                Pais Origen
+                            </th>                            
                             <th>
                                 Accion
                             </th>

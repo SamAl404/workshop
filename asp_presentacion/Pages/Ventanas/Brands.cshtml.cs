@@ -42,7 +42,7 @@ namespace asp_presentacion.Pages.Ventanas
                     return;
                 }
 
-                Filtro!.Id = Filtro!.Id;
+                Filtro!.OriginCountry = Filtro!.OriginCountry ?? "";
 
                 Accion = Enumerables.Ventanas.Listas;
 

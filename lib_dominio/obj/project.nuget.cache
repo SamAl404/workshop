@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FJeW4FZFg4g=",
+  "dgSpecHash": "uZ/DFKyMuZA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\lib_dominio.csproj",
+  "projectFilePath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\lib_dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\santi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ASUS\\Documents\\software-development\\workshop\\lib_dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
