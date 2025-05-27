@@ -19,6 +19,8 @@ namespace lib_presentaciones.Implementaciones
 
             if (respuesta.ContainsKey("Error"))
             {
+                var error = respuesta["Error"].ToString();
+                Console.WriteLine($"Error devuelto por backend: {error}"); // o usa Debugger.Break()                
                 throw new Exception(respuesta["Error"].ToString()!);
             }
             lista = JsonConversor.ConvertirAObjeto<List<Orders>>(

@@ -44,7 +44,10 @@ namespace lib_aplicaciones.Implementaciones
 
         public List<Vehicles> Listar()
         {
-            return this.IConexion!.Vehicles!.Take(20).ToList();
+            return this.IConexion!.Vehicles!.Take(20)
+                .Include(x => x._Customer)
+                .Include(x => x._Brand)
+                .ToList();
         }
 
         public Vehicles? Modificar(Vehicles? entidad)

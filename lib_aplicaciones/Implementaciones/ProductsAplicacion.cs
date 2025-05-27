@@ -44,7 +44,9 @@ namespace lib_aplicaciones.Implementaciones
 
         public List<Products> Listar()
         {
-            return this.IConexion!.Products!.Take(20).ToList();
+            return this.IConexion!.Products!.Take(20)
+                .Include(x => x._Category)
+                .ToList();
         }
 
         public Products? Modificar(Products? entidad)

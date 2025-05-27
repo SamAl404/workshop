@@ -44,7 +44,10 @@ namespace lib_aplicaciones.Implementaciones
 
         public List<Sales> Listar()
         {
-            return this.IConexion!.Sales!.Take(20).ToList();
+            return this.IConexion!.Sales!.Take(20)
+                .Include(x => x._PaymentMethod)
+                .Include(x => x._Order)
+                .ToList();
         }
 
         public Sales? Modificar(Sales? entidad)

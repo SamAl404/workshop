@@ -184,8 +184,271 @@ SELECT * FROM OrderServices
 
 
 
+GO
 
+-- ========= BRANDS =========
+CREATE TRIGGER trg_Brands_INSERT ON Brands AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Brands', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
 
+CREATE TRIGGER trg_Brands_UPDATE ON Brands AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Brands', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Brands_DELETE ON Brands AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Brands', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= CUSTOMERS =========
+CREATE TRIGGER trg_Customers_INSERT ON Customers AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Customers', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Customers_UPDATE ON Customers AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Customers', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Customers_DELETE ON Customers AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Customers', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= VEHICLES =========
+CREATE TRIGGER trg_Vehicles_INSERT ON Vehicles AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Vehicles', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Vehicles_UPDATE ON Vehicles AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Vehicles', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Vehicles_DELETE ON Vehicles AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Vehicles', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= EMPLOYEES =========
+CREATE TRIGGER trg_Employees_INSERT ON Employees AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Employees', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Employees_UPDATE ON Employees AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Employees', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Employees_DELETE ON Employees AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Employees', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= ORDERS =========
+CREATE TRIGGER trg_Orders_INSERT ON Orders AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Orders', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Orders_UPDATE ON Orders AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Orders', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Orders_DELETE ON Orders AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Orders', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= PAYMENTMETHODS =========
+CREATE TRIGGER trg_PaymentMethods_INSERT ON PaymentMethods AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'PaymentMethods', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_PaymentMethods_UPDATE ON PaymentMethods AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'PaymentMethods', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_PaymentMethods_DELETE ON PaymentMethods AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'PaymentMethods', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= SALES =========
+CREATE TRIGGER trg_Sales_INSERT ON Sales AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Sales', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Sales_UPDATE ON Sales AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Sales', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Sales_DELETE ON Sales AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Sales', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= SERVICES =========
+CREATE TRIGGER trg_Services_INSERT ON Services AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Services', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Services_UPDATE ON Services AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Services', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Services_DELETE ON Services AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Services', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= ORDERSERVICES =========
+CREATE TRIGGER trg_OrderServices_INSERT ON OrderServices AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'OrderServices', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_OrderServices_UPDATE ON OrderServices AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'OrderServices', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_OrderServices_DELETE ON OrderServices AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'OrderServices', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= CATEGORIES =========
+CREATE TRIGGER trg_Categories_INSERT ON Categories AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Categories', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Categories_UPDATE ON Categories AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Categories', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Categories_DELETE ON Categories AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Categories', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= PRODUCTS =========
+CREATE TRIGGER trg_Products_INSERT ON Products AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Products', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Products_UPDATE ON Products AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Products', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_Products_DELETE ON Products AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'Products', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
+
+-- ========= SERVICESPRODUCTS =========
+CREATE TRIGGER trg_ServicesProducts_INSERT ON ServicesProducts AFTER INSERT AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'ServicesProducts', 'INSERT', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_ServicesProducts_UPDATE ON ServicesProducts AFTER UPDATE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'ServicesProducts', 'UPDATE', (SELECT * FROM INSERTED FOR JSON AUTO);
+END;
+GO
+
+CREATE TRIGGER trg_ServicesProducts_DELETE ON ServicesProducts AFTER DELETE AS
+BEGIN
+    INSERT INTO Auditoria (Tabla, Operacion, Datos)
+    SELECT 'ServicesProducts', 'DELETE', (SELECT * FROM DELETED FOR JSON AUTO);
+END;
+GO
 
 
 

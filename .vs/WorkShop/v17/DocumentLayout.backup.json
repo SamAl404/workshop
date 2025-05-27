@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_presentaciones\\implementaciones\\brandspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\brandspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_servicios\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AAF37AC-B142-4F99-8EA1-0402D22226A7}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_presentacion\\pages\\ventanas\\brands.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\brands.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_dominio\\entidades\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CE598-F061-49B4-9247-F3B4169B2146}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_aplicaciones\\implementaciones\\brandsaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\brandsaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_presentacion\\pages\\ventanas\\vehicles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\vehicles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_presentacion\\pages\\ventanas\\vehicles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\vehicles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\asp_presentacion\\pages\\ventanas\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0DE7224-CA3F-495A-B20F-90EA15AF341B}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_aplicaciones\\implementaciones\\vehiclesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547001B-AA60-44B5-BA8B-166C714EB383}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\vehiclesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\santi\\onedrive\\desktop\\univ\\c#\\workshop\\workshop\\lib_presentaciones\\implementaciones\\vehiclespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCEE151-2168-44EB-B1CC-8FD34E26578A}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\vehiclespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,80 +58,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BrandsController.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\BrandsController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\BrandsController.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_servicios\\Controllers\\BrandsController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\BrandsController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwDoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:45:14.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BrandsAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\BrandsAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\BrandsAplicacion.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\BrandsAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\BrandsAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:44:25.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Brandspresentacion.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Implementaciones\\Brandspresentacion.cs",
-              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\Brandspresentacion.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Implementaciones\\Brandspresentacion.cs",
-              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\Brandspresentacion.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAtwCMAAABGAAAAAAAAAA==",
+              "Title": "Brands.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Brands.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Brands.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Brands.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Brands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:24:20.101Z",
+              "WhenOpened": "2025-05-27T12:53:26.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Customers.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Customers.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Customers.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:53:22.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Comunicaciones.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Comunicaciones.cs",
-              "RelativeDocumentMoniker": "lib_presentaciones\\Comunicaciones.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Comunicaciones.cs",
-              "RelativeToolTip": "lib_presentaciones\\Comunicaciones.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAvwBwAAAAIAAAAAAAAAA==",
+              "Title": "Vehicles.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Vehicles.cshtml.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Vehicles.cshtml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Vehicles.cshtml.cs",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Vehicles.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:24:08.13Z",
+              "WhenOpened": "2025-05-27T12:51:59.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Brands.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Brands.cshtml.cs",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Brands.cshtml.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Brands.cshtml.cs",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Brands.cshtml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA/wCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:20:57.462Z",
+              "DocumentIndex": 3,
+              "Title": "Vehicles.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Vehicles.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Vehicles.cshtml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Vehicles.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Vehicles.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T12:51:53.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Brands.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Brands.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Brands.cshtml",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\asp_presentacion\\Pages\\Ventanas\\Brands.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Brands.cshtml",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T22:09:16.23Z",
+              "Title": "VehiclesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\VehiclesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\VehiclesAplicacion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_aplicaciones\\Implementaciones\\VehiclesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\VehiclesAplicacion.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:51:17.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehiclesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Implementaciones\\VehiclesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\VehiclesPresentacion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_presentaciones\\Implementaciones\\VehiclesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\VehiclesPresentacion.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:51:04.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Vehicles.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\univ\\C#\\workshop\\workshop\\lib_dominio\\Entidades\\Vehicles.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Vehicles.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:50:20.625Z",
               "EditorCaption": ""
             }
           ]

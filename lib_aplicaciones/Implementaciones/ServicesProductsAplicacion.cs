@@ -44,7 +44,10 @@ namespace lib_aplicaciones.Implementaciones
 
         public List<ServicesProducts> Listar()
         {
-            return this.IConexion!.ServicesProducts!.Take(20).ToList();
+            return this.IConexion!.ServicesProducts!.Take(20)
+                .Include(x => x._Service)
+                .Include(x => x._Prodcut)                
+                .ToList();
         }
 
         public ServicesProducts? Modificar(ServicesProducts? entidad)

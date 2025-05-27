@@ -19,7 +19,7 @@ namespace asp_presentacion
             services.AddScoped<ICustomersPresentacion, CustomersPresentacion>();
             services.AddScoped<ICategoriesPresentacion, CategoriesPresentacion>();
             services.AddScoped<IEmployeesPresentacion, EmployeesPresentacion>();
-            services.AddScoped<IOrdersPresentacion, OrdersPresentacion>();
+            //services.AddScoped<IOrdersPresentacion, OrdersPresentacion>();
             services.AddScoped<IOrderServicesPresentacion, OrderServicesPresentacion>();
             services.AddScoped<IPaymentMethodsPresentacion, PaymentMethodsPresentacion>();
             services.AddScoped<IProductsPresentacion, ProductsPresentacion>();
@@ -27,6 +27,8 @@ namespace asp_presentacion
             services.AddScoped<IServicesPresentacion, ServicesPresentacion>();
             services.AddScoped<IServicesProductsPresentacion, ServicesProductsPresentacion>();
             services.AddScoped<IVehiclesPresentacion, VehiclesPresentacion>();
+            builder.Services.AddScoped<IOrdersPresentacion, OrdersPresentacion>();
+
 
             services.AddControllers();
             services.AddEndpointsApiExplorer();

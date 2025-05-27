@@ -44,7 +44,10 @@ namespace lib_aplicaciones.Implementaciones
 
         public List<Orders> Listar()
         {
-            return this.IConexion!.Orders!.Take(20).ToList();
+            return this.IConexion!.Orders!.Take(20)
+                .Include(x => x._Employees)
+                .Include(x => x._Vehicle)
+                .ToList();
         }
 
         public Orders? Modificar(Orders? entidad)
